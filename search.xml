@@ -19,9 +19,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test</title>
+    <title>如何搭建这个blog</title>
     <url>/2023/10/31/test/</url>
-    <content><![CDATA[<img lazyload alt="image" data-src="https://" style="width:100%">  
+    <content><![CDATA[<img lazyload alt="image" data-src="https://s2.loli.net/2023/10/31/8a4eJhzvnjErIob.jpg" style="width:100%">  
 
 <p>0x00 前言<br>利用github pag功能搭建自己的blog,blog生成用hexo,图床用picgo,dns用cloudflare</p>
 <span id="more"></span>

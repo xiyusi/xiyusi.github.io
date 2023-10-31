@@ -6,7 +6,7 @@
   <link href="https://xiyusi.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiyusi.github.io/"/>
-  <updated>2023-10-31T02:16:56.778Z</updated>
+  <updated>2023-10-31T09:45:33.160Z</updated>
   <id>https://xiyusi.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xiyusi.github.io/2023/10/31/test/"/>
     <id>https://xiyusi.github.io/2023/10/31/test/</id>
     <published>2023-10-31T00:33:50.000Z</published>
-    <updated>2023-10-31T02:16:56.778Z</updated>
+    <updated>2023-10-31T09:45:33.160Z</updated>
     
     <content type="html"><![CDATA[<img lazyload alt="image" data-src="https://s2.loli.net/2023/10/31/8a4eJhzvnjErIob.jpg" style="width:100%">  <p>0x00 前言<br>利用github pag功能搭建自己的blog,blog生成用hexo,图床用picgo,dns用cloudflare</p><span id="more"></span><h2 id="0x01-hexo"><a href="#0x01-hexo" class="headerlink" title="0x01 hexo"></a>0x01 hexo</h2><h2 id="0x02-cloudflare"><a href="#0x02-cloudflare" class="headerlink" title="0x02 cloudflare"></a>0x02 cloudflare</h2><h2 id="0x03-picgo-SMMS"><a href="#0x03-picgo-SMMS" class="headerlink" title="0x03 picgo + SMMS"></a>0x03 picgo + SMMS</h2><ol><li>下载并安装,picgo<a class="link" href="https://github.com/Molunerfinn/PicGo/releases">点击这里<i class="fas fa-external-link-alt"></i></a>Or<a class="link" href="https://gitee.com/Molunerfinn/PicGo">这里<i class="fas fa-external-link-alt"></i></a></li><li>进入<a class="link" href="https://smms.app/">SM.MS<i class="fas fa-external-link-alt"></i></a>注册一个账号</li><li>打开picgo,在图床设置中找到SMMS,<a class="link" href="https://zhuanlan.zhihu.com/p/618902329">Token<i class="fas fa-external-link-alt"></i></a>在SMMS的user中 API Token</li><li>VScode安装picgo插件</li></ol><hr>版权信息]]></content>
     
@@ -32,6 +32,16 @@
     
     
     
+    <category term="教程" scheme="https://xiyusi.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="github" scheme="https://xiyusi.github.io/tags/github/"/>
+    
+    <category term="hexo" scheme="https://xiyusi.github.io/tags/hexo/"/>
+    
+    <category term="picgo" scheme="https://xiyusi.github.io/tags/picgo/"/>
+    
+    <category term="cloudflare" scheme="https://xiyusi.github.io/tags/cloudflare/"/>
     
   </entry>
   

@@ -1,3 +1,11 @@
+https://xiyusi.github.io/about/index.html
+https://xiyusi.github.io/categories/index.html
+https://xiyusi.github.io/tags/index.html
 https://xiyusi.github.io/2023/10/31/test/
 https://xiyusi.github.io/2023/10/30/hello-world/
 https://xiyusi.github.io/
+https://xiyusi.github.io/tags/github/
+https://xiyusi.github.io/tags/hexo/
+https://xiyusi.github.io/tags/picgo/
+https://xiyusi.github.io/tags/cloudflare/
+https://xiyusi.github.io/categories/%E6%95%99%E7%A8%8B/

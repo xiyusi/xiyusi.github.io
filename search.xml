@@ -19,48 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>如何搭建这个blog</title>
-    <url>/2023/10/31/test/</url>
-    <content><![CDATA[<img lazyload alt="image" data-src="https://s2.loli.net/2023/10/31/8a4eJhzvnjErIob.jpg" style="width:100%">  
-
-<p>0x00 前言<br>利用github pag功能搭建自己的blog,blog生成用hexo,图床用picgo,dns用cloudflare</p>
-<span id="more"></span>
-
-<h2 id="0x01-hexo"><a href="#0x01-hexo" class="headerlink" title="0x01 hexo"></a>0x01 hexo</h2><h2 id="0x02-cloudflare"><a href="#0x02-cloudflare" class="headerlink" title="0x02 cloudflare"></a>0x02 cloudflare</h2><h2 id="0x03-picgo-SMMS"><a href="#0x03-picgo-SMMS" class="headerlink" title="0x03 picgo + SMMS"></a>0x03 picgo + SMMS</h2><ol>
-<li>下载并安装,picgo<a class="link" href="https://github.com/Molunerfinn/PicGo/releases">点击这里<i class="fas fa-external-link-alt"></i></a>Or<a class="link" href="https://gitee.com/Molunerfinn/PicGo">这里<i class="fas fa-external-link-alt"></i></a></li>
-<li>进入<a class="link" href="https://smms.app/">SM.MS<i class="fas fa-external-link-alt"></i></a>注册一个账号</li>
-<li>打开picgo,在图床设置中找到SMMS,<a class="link" href="https://zhuanlan.zhihu.com/p/618902329">Token<i class="fas fa-external-link-alt"></i></a>在SMMS的user中 API Token</li>
-<li>VScode安装picgo插件</li>
-</ol>
-<hr>
-版权信息]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>github</tag>
-        <tag>hexo</tag>
-        <tag>picgo</tag>
-        <tag>cloudflare</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>project</title>
-    <url>/2023/11/08/project/</url>
-    <content><![CDATA[<p>0x00 前言<br>通过备孕生产出系列文章以及视频，来打造一个备孕学习者或专业者的身份</p>
-<span id="more"></span>
-
-<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><h2 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h2><hr>
-版权信息]]></content>
-      <categories>
-        <category>计划</category>
-      </categories>
-      <tags>
-        <tag>计划</tag>
-        <tag>蓝图</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【运营】运营的基础</title>
     <url>/2023/10/31/408/</url>
     <content><![CDATA[<p>0x00 前言<br>什么是运营?<br>最终目的:根据公司所选择行业商业模式，围绕着公司的实际情况出发制定的阶段性战略目标，把目标转化成数据化的形态，并以最快最有效的方法来完成目标<br>主要参考文章致远老师的<a class="link" href="https://www.woshipm.com/operate/835061.html">如何成为一个运营大牛<i class="fas fa-external-link-alt"></i></a></p>
@@ -669,6 +627,48 @@
       <tags>
         <tag>运营</tag>
         <tag>工作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>project</title>
+    <url>/2023/11/08/project/</url>
+    <content><![CDATA[<p>0x00 前言<br>通过备孕生产出系列文章以及视频，来打造一个备孕学习者或专业者的身份</p>
+<span id="more"></span>
+
+<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><h2 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h2><hr>
+版权信息]]></content>
+      <categories>
+        <category>计划</category>
+      </categories>
+      <tags>
+        <tag>计划</tag>
+        <tag>蓝图</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何搭建这个blog</title>
+    <url>/2023/10/31/test/</url>
+    <content><![CDATA[<img lazyload alt="image" data-src="https://s2.loli.net/2023/10/31/8a4eJhzvnjErIob.jpg" style="width:100%">  
+
+<p>0x00 前言<br>利用github pag功能搭建自己的blog,blog生成用hexo,图床用picgo,dns用cloudflare</p>
+<span id="more"></span>
+
+<h2 id="0x01-hexo"><a href="#0x01-hexo" class="headerlink" title="0x01 hexo"></a>0x01 hexo</h2><h2 id="0x02-cloudflare"><a href="#0x02-cloudflare" class="headerlink" title="0x02 cloudflare"></a>0x02 cloudflare</h2><h2 id="0x03-picgo-SMMS"><a href="#0x03-picgo-SMMS" class="headerlink" title="0x03 picgo + SMMS"></a>0x03 picgo + SMMS</h2><ol>
+<li>下载并安装,picgo<a class="link" href="https://github.com/Molunerfinn/PicGo/releases">点击这里<i class="fas fa-external-link-alt"></i></a>Or<a class="link" href="https://gitee.com/Molunerfinn/PicGo">这里<i class="fas fa-external-link-alt"></i></a></li>
+<li>进入<a class="link" href="https://smms.app/">SM.MS<i class="fas fa-external-link-alt"></i></a>注册一个账号</li>
+<li>打开picgo,在图床设置中找到SMMS,<a class="link" href="https://zhuanlan.zhihu.com/p/618902329">Token<i class="fas fa-external-link-alt"></i></a>在SMMS的user中 API Token</li>
+<li>VScode安装picgo插件</li>
+</ol>
+<hr>
+版权信息]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+        <tag>hexo</tag>
+        <tag>picgo</tag>
+        <tag>cloudflare</tag>
       </tags>
   </entry>
 </search>

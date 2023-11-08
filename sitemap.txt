@@ -1,3 +1,5 @@
+https://xiyusi.github.io/2023/10/31/408/
+https://xiyusi.github.io/2023/11/08/project/
 https://xiyusi.github.io/about/index.html
 https://xiyusi.github.io/categories/index.html
 https://xiyusi.github.io/tags/index.html
@@ -8,4 +10,10 @@ https://xiyusi.github.io/tags/github/
 https://xiyusi.github.io/tags/hexo/
 https://xiyusi.github.io/tags/picgo/
 https://xiyusi.github.io/tags/cloudflare/
+https://xiyusi.github.io/tags/%E8%AE%A1%E5%88%92/
+https://xiyusi.github.io/tags/%E8%93%9D%E5%9B%BE/
+https://xiyusi.github.io/tags/%E8%BF%90%E8%90%A5/
+https://xiyusi.github.io/tags/%E5%B7%A5%E4%BD%9C/
 https://xiyusi.github.io/categories/%E6%95%99%E7%A8%8B/
+https://xiyusi.github.io/categories/%E8%AE%A1%E5%88%92/
+https://xiyusi.github.io/categories/%E8%BF%90%E8%90%A5/
